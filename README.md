@@ -8,7 +8,7 @@ This tool provides an overview of World of Warcraft raiders with their item leve
 
 Fork this repository; configure settings.txt; update players.txt. That's it!
 
-If you need help getting GitHub Pages working, documentation can be found here: https://docs.github.com/en/pages
+If you need help with GitHub Pages, documentation can be found here: https://docs.github.com/en/pages
 
 # Contact
 
@@ -21,4 +21,4 @@ Please use the contact information here: https://dale.distract.org/contact.html
 
 # History
 
-I wrote Lazyraiders in June 2019 in Python, then I used ChatGPT to get the Web version, and Copilot to add item level and style sheet.
+I wrote Lazyraiders in June 2019 in Python, then I used ChatGPT to port to Web; Copilot to add item level and style sheet.
